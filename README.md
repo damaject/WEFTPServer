@@ -23,7 +23,7 @@ LdCommands (* - optional param):
 17. wrifil - Write file [name] [*append(1|0)]
 18. wriend - Ends writing to file []
 
-Note: Use brackets «[» and «]» for param with space on multiparams commands
+Note: *Use brackets «[» and «]» for param with space on multiparams commands*
 
 ## FTP Server
 
