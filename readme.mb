@@ -1,4 +1,4 @@
-Python FileManager
+# Python FileManager
 
 LdCommands (* - optional param):
 1. hep - Show info about all commands [*command]
@@ -23,7 +23,7 @@ LdCommands (* - optional param):
 Note: Use brackets «[» and «]» for param with space on multiparams commands
 
 
-Python EchoServer
+# Python EchoServer
 
 Server - server.py
 Client - client.py
