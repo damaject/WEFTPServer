@@ -1,6 +1,6 @@
 # Python FileManager
 
-LdCommands (* - optional param):
+## LdCommands (* - optional param):
 1. hep - Show info about all commands [*command]
 2. setrot - Set root dir [path]
 3. getrot - Show root dir []
